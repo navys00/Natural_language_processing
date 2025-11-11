@@ -1,0 +1,4 @@
+homework.ipynb filter=lfs diff=lfs merge=lfs -text
+fairy_tale.txt filter=lfs diff=lfs merge=lfs -text
+ukr_rus.text.txt filter=lfs diff=lfs merge=lfs -text
+ukr_rus.train.txt filter=lfs diff=lfs merge=lfs -text
